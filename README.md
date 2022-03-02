@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @vikrantyadav7
-- 👀 I’m interested in tech
-- 🌱 I’m currently learning flutter
+-
 - 💞️ I’m looking to collaborate on flutter
 - 📫 How to reach me ...vikrantyadav190@gmail.com
 
